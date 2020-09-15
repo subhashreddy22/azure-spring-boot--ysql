@@ -1,2 +1,2 @@
-# azure-spring-boot--ysql
+# azure-spring-boot-ysql
 Spring Boot App connecting to MySql on Azure
